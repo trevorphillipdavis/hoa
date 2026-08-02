@@ -1,7 +1,7 @@
 {
   "name": "hoa",
   "version": "1.0.0",
-  "homepage": "https://trevorphillipdavis.github.io/hoa",
+  "homepage": "https://trevorphillipdavis.github.io/hoa/",
   "main": "expo-router/entry",
   "scripts": {
     "start": "expo start",
