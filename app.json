@@ -23,8 +23,10 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+"web": {
+      "favicon": "./assets/favicon.png",
+      "output": "single",
+      "baseUrl": "/hoa"
     }
   }
 }
